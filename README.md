@@ -1,45 +1,38 @@
-<h1 align="center">Hi, I'm [Sheikh Faijan Qureshi] 👋</h1>
-<p align="center">
-  Frontend Developer | Java Developer
+<h1 align="center">Hi 👋, I'm Sheikh Faijan Qureshi</h1>
+<h3 align="center">I'm a Frontend Developer with a Bachelor's degree in Computer Science and Engineering I am passionate about consistently advancing my knowledge and skills. I'm focused on building modern, responsive, and accessible websites.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhfaijanqureshi&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhfaijanqureshi" /> </p>
+
+<p align="left"> <a href="https://twitter.com/sheikhfaijan6a9" target="blank"><img src="https://img.shields.io/twitter/follow/sheikhfaijan6a9?logo=twitter&style=for-the-badge" alt="sheikhfaijan6a9" /></a> </p>
+
+- 🔭 I’m currently working on **E-Commerce Website**
+
+- 🌱 I’m currently learning **Advance Java , Springboot.**
+
+- 👨‍💻 All of my projects are available at [https://sfqinfo.netlify.app](https://sfqinfo.netlify.app)
+
+- 💬 Ask me about **Frontend Development**
+
+- 📫 How to reach me **sheikhfaijan172@gmail.com**
+
+- 📄 Know about my experiences [https://aquamarine-consolata-46.tiiny.site/](https://aquamarine-consolata-46.tiiny.site/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sheikhfaijan6a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhfaijan6a9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sheikh-faijan-qureshi-5b0061278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh-faijan-qureshi-5b0061278/" height="30" width="40" /></a>
+<a href="https://fb.com/sheikh.faijan.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh.faijan.96" height="30" width="40" /></a>
+<a href="https://instagram.com/faijansheikh_172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faijansheikh_172" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sheikhfaijanqureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sheikhfaijanqureshi" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 🚀 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhfaijanqureshi&show_icons=true&locale=en&layout=compact" alt="sheikhfaijanqureshi" /></p>
 
-- 👨‍💻I'm a Frontend Developer with a Bachelor's degree in Computer Science and Engineering
-- I am passionate about consistently advancing my knowledge and skills.
--  I'm focused on building modern, responsive, and accessible websites.
-- 🎯 Goal: Build user-first digital products and contribute to open source.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhfaijanqureshi&show_icons=true&locale=en" alt="sheikhfaijanqureshi" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhfaijanqureshi&" alt="sheikhfaijanqureshi" /></p>
 
-## 🛠️ Tech Stack
-
-- **Languages**: HTML5, CSS3, JavaScript, TypeScript  
-- **Frameworks**: React, Next.js  
-- **Styling**: Tailwind CSS, Sass, Bootstrap  
-- **Tools**: Git, GitHub, Figma, Vite, VS Code
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="350" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://yourwebsite.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
-📧 your.email@example.com
-
----
-
-> “Code is not just syntax — it’s design, logic, and empathy for users.”
 
