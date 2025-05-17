@@ -1,14 +1,15 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [Sheikh Faijan Qureshi] 👋</h1>
 <p align="center">
-  Frontend Developer | Web Enthusiast | UI/UX Explorer
+  Frontend Developer | Java Developer
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 I’m a passionate Frontend Developer focused on building modern, responsive, and accessible websites.
-- 🌱 Currently exploring advanced React, Next.js, and Web Animation.
+- 👨‍💻I'm a Frontend Developer with a Bachelor's degree in Computer Science and Engineering
+- I am passionate about consistently advancing my knowledge and skills.
+-  I'm focused on building modern, responsive, and accessible websites.
 - 🎯 Goal: Build user-first digital products and contribute to open source.
 
 ---
